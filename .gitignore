@@ -47,3 +47,15 @@ po/*~
 
 # RStudio Connect folder
 rsconnect/
+
+# .ipynb checkpoints
+.ipynb_checkpoints/
+
+# ignore build artifacts
+*/tmp/*
+*/out/*
+
+# But allow folder structure to be commited
+#   with a placeholder file
+!*/tmp/.placeholder
+!*/out/.placeholder
