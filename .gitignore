@@ -59,3 +59,12 @@ rsconnect/
 #   with a placeholder file
 !*/tmp/.placeholder
 !*/out/.placeholder
+
+/.quarto/
+**/*.quarto_ipynb
+
+index_files/
+
+*.tex
+*.log
+*.aux
