@@ -317,9 +317,9 @@ plot_responses_plowing_lateness %>% ggsave(filename=file.path(plot_dir,plot_resp
 
 # Discussion
 
-From the data collected by the group, less students than expected cited that their street was rarely plowed when they leave for school in the morning. The data suggests that students who live on streets that are not plowed less often may be late more often to school, but this is not conclusive. To better understand these relationships, the survey is recommended to be given to a larger cohort of stuents. 
+From the data collected by the group, less students than expected cited that their street was rarely plowed when they leave for school in the morning on snowy days. The survey responses suggest that students who live on streets that are plowed less often may be late more often to school, but this is not conclusive. It is recommended to give this survey to a larger cohort of stuents to better understand these relationships. 
 
-Furthermore, the group also found that there is not enough publically available information for a deeper understanding around inequities around municipal snow removal services and access to education in Syracuse.
+Furthermore, the group found that more detailed and publicly available information on how snow removal is prioritized across Syracuse could help support deeper research on potential inequities in access to education during winter months.
 
 
 # Call to Action
