@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Data Warriors Student Project"
+  description: "Investigation of municipal snow removal services and access to education in Syracuse"
+  
+  # Navigation Bar Configuration
+  navbar:
+    background: primary
+    # Primary Logo
+    logo: images/data_warriors_logo.png
+    # Supporting Logos on the right
+    right:
+      - icon: github
+        href: https://github.com/abnerbog/syracuse-snow-school-access
+      # - image: images/data_warriors_logo.png
+      #   height: 30px
+      # - image: images/supporting_logo_2.png
+      #   height: 30px
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+    toc-expand: true
+    code-fold: true
+    code-summary: "Show the code"
+
+execute:
+  echo: false
+  warning: false
+  message: false
