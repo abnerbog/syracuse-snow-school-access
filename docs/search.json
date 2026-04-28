@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Investigation of municipal snow removal services and access to education in Syracuse",
+    "section": "",
+    "text": "This project was developed by a group of students in the Data Warriors program at Henninger High School in Syracuse, New York. The group wanted to better understand whether students living on smaller residential streets and in different areas of Syracuse may face greater challenges getting to school in the winter than students who live on roads that are plowed more quickly. The core (or “burning”) research questions the students developed at the start of the project are in Figure 1.\n\n\n\n\n\n\nFigure 1: Burning questions from the group (Halima, Justin and Ushindi) developed in Week 3 of the Spring 2026 Data Warriors program."
+  },
+  {
+    "objectID": "index.html#using-publically-available-data",
+    "href": "index.html#using-publically-available-data",
+    "title": "Investigation of municipal snow removal services and access to education in Syracuse",
+    "section": "Using publically available data",
+    "text": "Using publically available data\nTo begin exploring these questions, the group used publicly available datasets from the City of Syracuse Open Data Portal along with U.S. Census data. These resources helped provide additional context for understanding how neighborhood conditions may shape winter transportation experiences for students.\nAs one example, the group mapped median household income across Syracuse census tracts and compared these patterns with the city’s designated emergency snow routes in Figure 2. Emergency routes are typically prioritized for plowing during major snow events, which may influence how quickly roads become passable in different parts of the city.\n\n\n\n\n\n\nFigure 2: Map showing 2024 ACS household median income data across census tracts within Syracuse, along with the emergency snow routes and Syracuse city boundary from the City of Syracuse Open Data Portal."
+  },
+  {
+    "objectID": "index.html#using-collected-survey-data",
+    "href": "index.html#using-collected-survey-data",
+    "title": "Investigation of municipal snow removal services and access to education in Syracuse",
+    "section": "Using collected survey data",
+    "text": "Using collected survey data\nTo further investigate their questions, the group designed and conducted a survey for students at Henninger High School (n=36) focused on winter transportation experiences. Students shared data on their project through HydroShare, an open repository for sharing and discovering water-related data and research materials.\nInformation about the project is available here on HydroShare: Survey of Municipal Snow Removal Services and Access to Education in Syracuse. The survey responses themselves are not currently public; additional consent is needed before the raw data can be shared.\nThe plots in Figure 3, Figure 4, Figure 5, and Figure 6 below are generated from the students survey data.\n\n\n\n\n\n\n\n\nFigure 3: Responses to the Data Warriors survey question: When you leave for school on snowy days, is the street near your home usually plowed?\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 4: Responses to the Data Warriors survey question: How do you usually get to school? (Select all that apply)\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 5: Responses to the Data Warriors survey question: How often have you been late to school this winter because of snowy conditions?\n\n\n\n\n\n\n\n\n\n\n\n\n\nFigure 6: Responses to the Data Warriors survey question: What time do you usually leave home for school?"
+  }
+]
