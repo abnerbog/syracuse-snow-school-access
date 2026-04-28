@@ -1,15 +1,10 @@
 library(httr)
-library(getPass)
 
 #' Download a Private/Discoverable HydroShare Resource
 #'
 #' @param resource_id The 32-character ID of the HydroShare resource
 #' @param save_path The directory to save the downloaded zip
 get_data_from_hydroshare <- function(resource_id, save_path = ".") {
-  
-  # # 1. Securely prompt for credentials
-  # usr <- readline(prompt = "Enter HydroShare Username: ")
-  # pwd <- getPass::getPass("Enter HydroShare Password: ")
 
   # 1. Get credentials from .Renviron
   usr <- Sys.getenv("HYDROSHARE_USR")
