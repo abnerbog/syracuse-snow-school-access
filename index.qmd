@@ -82,10 +82,6 @@ As one example, the group mapped median household income across Syracuse census 
 
 ## Using collected survey data
 
-To further investigate their questions, the group designed and conducted a survey for students at Henninger High School (n=36) focused on winter transportation experiences. Students shared data on their project through [HydroShare](https://hydroshare.org/), an open repository for sharing and discovering water-related data and research materials. 
-
-Information about the project is available here on HydroShare: [Survey of Municipal Snow Removal Services and Access to Education in Syracuse](https://www.hydroshare.org/resource/60420a30cb5143c8957709a66bf2e71c/). The survey responses themselves are not currently public; additional consent is needed before the raw data can be shared.
-
 ::: {.content-hidden}
 
 ## Installing packages
@@ -226,6 +222,10 @@ plot_height <- 8
 Now we can make our plots!
 
 :::
+
+To further investigate their questions, the group designed and conducted a survey for students at Henninger High School (n=`r num_responses`) focused on winter transportation experiences. Students shared data on their project through [HydroShare](https://hydroshare.org/), an open repository for sharing and discovering water-related data and research materials. 
+
+Information about the project is available here on HydroShare: [Survey of Municipal Snow Removal Services and Access to Education in Syracuse](https://www.hydroshare.org/resource/60420a30cb5143c8957709a66bf2e71c/). The survey responses themselves are not currently public; additional consent is needed before the raw data can be shared.
 
 The plots in @fig-survey-question-plowing, @fig-survey-question-transportation, @fig-survey-question-lateness, and @fig-survey-question-departure below are generated from the students survey data.
 
