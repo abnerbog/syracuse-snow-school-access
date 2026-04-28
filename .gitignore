@@ -57,10 +57,10 @@ rsconnect/
 !*/tmp/.placeholder
 !*/out/.placeholder
 
+index_files/figure-pdf/
+
 /.quarto/
 **/*.quarto_ipynb
-
-index_files/
 
 *.tex
 *.log
