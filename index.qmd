@@ -63,7 +63,7 @@ keywords:
 
 # Overview
 
-This project was developed by a group of students in the [Data Warriors program](https://thedatawarriors.com/) at Henninger High School in Syracuse, New York. The group wanted to better understand whether students living on smaller residential streets and in different areas of Syracuse may face greater challenges getting to school in the winter than students who live on roads that are plowed more quickly. The core (or "burning") research questions the students developed at the start of the project are in @fig-burning-questions. 
+This project was developed by a group of students in the [Data Warriors program](https://thedatawarriors.com/) at Henninger High School in Syracuse, New York. The group wanted to better understand whether students living on smaller residential streets and in different areas of Syracuse may face greater challenges getting to school in the winter than students who live on roads that are plowed more quickly. The core (or "burning") research questions the group developed at the start of the project are in @fig-burning-questions. 
 
 ![Burning questions from the group (Halima, Justin and Ushindi) developed in Week 3 of the Spring 2026 Data Warriors program.](images/burning_questions.png){#fig-burning-questions}
 
@@ -72,7 +72,7 @@ This project was developed by a group of students in the [Data Warriors program]
 
 # Investigation of inequities around municipal snow removal services
 
-## Using publically available data
+## Using publicly available data
 
 To begin exploring these questions, the group used publicly available datasets from the [City of Syracuse Open Data Portal](https://data.syr.gov/) along with U.S. Census data. These resources helped provide additional context for understanding how neighborhood conditions may shape winter transportation experiences for students.
 
